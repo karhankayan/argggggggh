@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Chicago
+    url: https://www.uchicago.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
