@@ -1,12 +1,12 @@
 ---
 title: Karhan K. Kayan
 role: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - Artificial Intelligence
   - Graphical Models
   - Causal Inference
+  - Time Series
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,15 +28,12 @@ organizations:
     url: https://www.uchicago.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Computer Science and B.S. in Mathematics
+      institution: The University of Chicago
+      year: 2022 (Expected)
+    - course: High School Diploma in Science and Technology
+      institution: Bahcesehir High School for Science and Technology
+      year: 2018
 email: "kayankarhankaan@gmail.com"
 superuser: true
 highlight_name: true
