@@ -41,4 +41,9 @@ highlight_name: true
 ---
 I'm a fourth year Computer Science and Mathematics student at the University of Chicago. 
 
+I am fascinated by the interplay between machine learning, graphical models, causal inference, and computer vision. Recently I've been thinking about
+* How generative machine learning models such as VAEs and GANs can be integrated into causal inference to solve latent confounding.
+* How methods of graphical models can be incorporated into fair machine learning. 
+* Large scale causal inference on time series datasets using representation learning algorithms.  
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
