@@ -5,6 +5,7 @@ bio:
 interests:
   - Artificial Intelligence
   - Graphical Models
+  - Computer Vision
   - Causal Inference
   - Time Series
 social:
