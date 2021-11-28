@@ -29,7 +29,7 @@ publication_types: ["0"]
 abstract: The aim of this paper is to prove that the space of modular forms can be orthogonally decomposed into the space of Eisenstein series and the space of cusp forms. However, we assume no previous knowledge of modular forms and build them from ground up. Along the way, we develop the machinery that is required to prove the decomposition theorem and delve into the theory of Hecke operators, Poincaré series, and Petersson inner product.
 
 # Summary. An optional shortened abstract.
-summary: An expository paper on modular forms where I prove that the space of modular forms can be orthogonally decomposed into the space of Eisenstein series and the space of cusp forms.
+summary: An expository paper on modular forms where I prove that the space of modular forms can be orthogonally decomposed into the space of Eisenstein series and the space of cusp forms. Different aspects of modular forms are covered such as finite dimensionality, Hecke operators, and Petersson Inner Product.
 
 tags: []
 
