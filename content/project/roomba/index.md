@@ -1,6 +1,6 @@
 ---
-title: Object Detection
-summary: This is my final project for the Computer Vision class. I implemented an object detection algorithm using feature matching, Hough Transform, RANSAC, and homography estimation. 
+title: Roomba
+summary: This is our final project for the Robotics class. We draw from a variety of areas such as Q-learning, computer vision, path finding, and kinematics.  
 # tags:
 # - Deep Learning
 #date: "2016-04-27T00:00:00Z"
@@ -17,8 +17,8 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/karhankayan/object_detection"
-url_pdf: "/project/example/annotated-writeup.pdf"
+url_code: "https://github.com/karhankayan/Robotics-Final-Project-Roomba-"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
