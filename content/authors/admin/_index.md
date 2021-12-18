@@ -46,4 +46,4 @@ I am fascinated by the interplay between machine learning, graphical models, cau
 * How methods of graphical models can be incorporated into fair machine learning. 
 * Large scale causal inference on time series datasets using representation learning algorithms.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
