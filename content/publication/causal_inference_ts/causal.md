@@ -44,7 +44,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/karhankayan/GRAILTS'
+url_code: 'https://github.com/johnpaparrizos/GRAIL'
 url_dataset: ''
 url_poster: ''
 url_project: ''
