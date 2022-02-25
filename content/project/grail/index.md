@@ -17,7 +17,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/karhankayan/GRAILTS"
+url_code: "https://github.com/johnpaparrizos/GRAIL"
 url_pdf: "http://people.cs.uchicago.edu/~jopa/Papers/PaparrizosVLDB2019.pdf"
 url_slides: ""
 url_video: ""
