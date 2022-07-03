@@ -29,9 +29,10 @@ organizations:
     url: https://www.uchicago.edu/
 education:
   courses:
-    - course: B.S. in Computer Science and B.S. in Mathematics
+    - course: Ph.D. candidate at Princeton University
+    - course: B.S. in Computer Science with Honors and Specialization in Machine Learning & B.S. in Mathematics with Honors
       institution: The University of Chicago
-      year: 2022 (Expected)
+      year: 2022 
     - course: High School Diploma in Science and Technology
       institution: Bahcesehir High School for Science and Technology
       year: 2018
@@ -39,7 +40,7 @@ email: "kayankarhankaan@gmail.com"
 superuser: true
 highlight_name: true
 ---
-I'm a fourth year Computer Science and Mathematics student at the University of Chicago. 
+I'm a Computer Science Ph.D. student at Princeton University.
 
 I am fascinated by the interplay between machine learning, graphical models, causal inference, and computer vision. Recently I've been thinking about
 * How generative machine learning models such as VAEs and GANs can be integrated into causal inference to solve latent confounding.
