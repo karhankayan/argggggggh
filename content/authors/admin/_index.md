@@ -36,7 +36,7 @@ education:
     - course: High School Diploma in Science and Technology
       institution: Bahcesehir High School for Science and Technology
       year: 2018
-email: "kayankarhankaan@gmail.com"
+# email: "kayankarhankaan@gmail.com"
 superuser: true
 highlight_name: true
 ---

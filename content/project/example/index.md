@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Object Detection
 summary: This is my final project for the Computer Vision class. I implemented an object detection algorithm using feature matching, Hough Transform, RANSAC, and homography estimation. 
 # tags:
@@ -28,4 +28,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
----
+--- -->
