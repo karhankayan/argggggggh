@@ -1,4 +1,4 @@
----
+<!-- ---
 title: GRAIL
 summary: A fast approximate k-Nearest Neighbor algorithm for time series based on representation learning. I implemented this in Python as a standalone package under the supervision of Dr. John Paparrizos.
 # tags:
@@ -28,4 +28,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
----
+--- -->

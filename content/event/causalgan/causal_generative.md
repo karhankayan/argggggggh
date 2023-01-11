@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Integrating Generative Models and Causal Inference with Applications in Fair Machine Learning
 
 event: Center for Data and Computing, University of Chicago
@@ -59,4 +59,4 @@ url_video: ""
 #projects:
 #- example
 ---
-
+ -->

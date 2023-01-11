@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Roomba
 summary: This is our final project for the Robotics class. We draw from a variety of areas such as Q-learning, computer vision, path finding, and kinematics.  
 # tags:
@@ -28,4 +28,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
----
+--- -->
